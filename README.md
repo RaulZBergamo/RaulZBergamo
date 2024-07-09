@@ -9,7 +9,6 @@ I'm a passionate software developer and data engineer with experience in buildin
 - 🔭 I’m currently working on [hltv-api-python](https://github.com/RaulZBergamo/hltv-api-python)
 - 🌱 I’m currently studying for the AWS CLF-C02 certification
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Python, Data Engineering, and Web Development
 - ⚽ I'm a dedicated fan of Corinthians, enjoying football passionately
 - 📫 How to reach me: raulbergamo416@gmail.com
 
