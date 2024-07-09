@@ -63,7 +63,7 @@ Here are a few projects I've been working on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/raul-zinezi-bergamo/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/RaulZBergamo)
-[![Instagram](https://img.shields.io/badge/Twitter-Follow-blue)](https://instagram.com/raulzinezi)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://instagram.com/raulzinezi)
 
 ## Acknowledgements
 
