@@ -12,28 +12,6 @@ I'm a passionate software developer and data engineer with experience in buildin
 - ⚽ I'm a dedicated fan of Corinthians, enjoying football passionately
 - 📫 How to reach me: raulbergamo416@gmail.com
 
-## Experience
-
-**Seguralta**
-
-- **Junior Developer** (May 2023 - Present)
-  - Developed web scraping crawlers using Python and Object-Oriented Programming (OOP).
-  - Deployed applications in cloud environments using tools like Pulumi and Serverless technologies.
-  - Developed and maintained APIs in Python and C#, integrating various CRM systems like Active Campaign and HubSpot.
-  - Ensured clean code and applied design patterns to create readable and maintainable code.
-  - Managed data in databases like Trino, Hive, MySQL, and SQL Server.
-  - Configured and managed containerized applications using Kubernetes and implemented CI/CD pipelines.
-
-- **Development Intern** (May 2022 - May 2023)
-  - Automated data collection using IBM RPA's LowCode tool.
-  - Developed bots to automate routine processes, such as document registration in ERP systems.
-  - Integrated partner APIs to enhance process efficiency and data integrity.
-
-## Education
-
-**Universidade Paulista**
-- Bachelor's Degree in Computer Science (Feb 2021 - Dec 2024)
-
 ## Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
